@@ -6,7 +6,7 @@
 //
 
 #import "JTTestSettingTextFieldCell.h"
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 #import "JTTestSettingModel.h"
 
 @interface JTTestSettingTextFieldCell () <UITextFieldDelegate>

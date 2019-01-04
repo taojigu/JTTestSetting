@@ -9,8 +9,8 @@
 #import "JTTestSettingManager.h"
 #import "JTTestSettingModel.h"
 #import "JTTestSettingTextFieldCell.h"
-#import <YYCache.h>
-#import <UITableView+FDTemplateLayoutCell.h>
+#import <YYCache/YYCache.h>
+#import <UITableView+FDTemplateLayoutCell/UITableView+FDTemplateLayoutCell.h>
 
 @interface JTTestSettingViewController ()
 

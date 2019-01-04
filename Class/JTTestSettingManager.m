@@ -7,7 +7,7 @@
 
 #import "JTTestSettingManager.h"
 #import "JTTestSettingModel.h"
-#import <YYCache.h>
+#import <YYCache/YYCache.h>
 
 
 NSString *const JTTestSettingModelArrayKey = @"JTTestSettingModelArrayKey";

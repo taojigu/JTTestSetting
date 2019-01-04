@@ -6,7 +6,7 @@
 //
 
 #import "JTTestSettingModel.h"
-#import <NSObject+MJCoding.h>
+#import <MJExtension/NSObject+MJCoding.h>
 
 @implementation JTTestSettingModel
 
