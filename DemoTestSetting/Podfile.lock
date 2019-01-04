@@ -1,0 +1,35 @@
+PODS:
+  - JTTestSetting (0.0.1)
+  - Masonry (1.1.0)
+  - MJExtension (3.0.15.1)
+  - "UITableView+FDTemplateLayoutCell (1.6)"
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - JTTestSetting (from `../`)
+  - Masonry
+  - MJExtension (= 3.0.15.1)
+  - "UITableView+FDTemplateLayoutCell"
+  - YYCache
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - MJExtension
+    - "UITableView+FDTemplateLayoutCell"
+    - YYCache
+
+EXTERNAL SOURCES:
+  JTTestSetting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JTTestSetting: 2494a3982a1bbb387998991730e25e31db9018b2
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  "UITableView+FDTemplateLayoutCell": 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: f8a33b18bfda6acdab10a423cb900fbf2712519f
+
+COCOAPODS: 1.5.3
