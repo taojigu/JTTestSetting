@@ -10,4 +10,9 @@ Pod::Spec.new do |s|
     s.source_files = 'Class/**/*.{h,m}'
     s.requires_arc = true
 
+    s.dependency 'YYCache'
+    s.dependency 'MJExtension'
+    s.dependency 'Masonry'
+    s.dependency 'UITableView+FDTemplateLayoutCell'
+
 end

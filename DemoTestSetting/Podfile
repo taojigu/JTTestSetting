@@ -7,10 +7,10 @@ target 'DemoTestSetting' do
 
   # Pods for DemoTestSetting
   pod 'JTTestSetting',:path=>'../'
-  pod 'YYCache'
-  pod 'MJExtension','3.0.15.1'
-  pod 'Masonry'
-  pod 'UITableView+FDTemplateLayoutCell'
+  #pod 'YYCache'
+  #pod 'MJExtension','3.0.15.1'
+  #pod 'Masonry'
+  #pod 'UITableView+FDTemplateLayoutCell'
   
   target 'DemoTestSettingTests' do
     inherit! :search_paths
